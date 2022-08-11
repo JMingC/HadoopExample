@@ -10,7 +10,7 @@
     <properties>
         <project.bulid.sourceEncoding>UTF-8</project.bulid.sourceEncoding>
         <!--hadoop版本号-->
-        <hadoop.version>3.2.1</hadoop.version>
+        <hadoop.version>3.2.4</hadoop.version>
     </properties>
 
     <dependencies>
